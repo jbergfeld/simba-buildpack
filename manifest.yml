@@ -1,0 +1,12 @@
+---
+language: simba
+default_versions: []
+dependency_deprecation_dates: []
+dependencies: []
+include_files:
+- VERSION
+- bin/supply
+- bin/detect
+- manifest.yml
+- vendor/libsparkodbc_sb64.so
+- vendor/odbcinst.ini
